@@ -6,6 +6,7 @@ Ma to byc klasa Vector, ktora zawiera w sobie:
 - wskaznik na tablice dynamiczna (ang. data)  
 - rozmiar aktualnie zaalokowanej tablicy dynamicznej (ang. capacity)  
 - ilosc elementow w tablicy (ang. size)
+
 Ponadto proszę o zaimplementowanie metod zwracającej liczbę elementów w tablicy size(), wielkosc tablicy capacity()  
 Implementacja ulamka:  
 [3pkt] Zaimplementuj klase Ulamek (ang. Fraction), posiadająca licznik (ang. numerator) i mianownik (ang. denominator).  
