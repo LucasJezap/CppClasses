@@ -7,7 +7,7 @@ Ma to byc klasa Vector, ktora zawiera w sobie:
 - rozmiar aktualnie zaalokowanej tablicy dynamicznej (ang. capacity)  
 - ilosc elementow w tablicy (ang. size)  
 Ponadto proszę o zaimplementowanie metod zwracającej liczbę elementów w tablicy size(), wielkosc tablicy capacity()  
- Implementacja ulamka:  
+Implementacja ulamka:  
 [3pkt] Zaimplementuj klase Ulamek (ang. Fraction), posiadająca licznik (ang. numerator) i mianownik (ang. denominator).  
        Powinna zawierac jeden konstruktor ustawiajacy licznik i mianownik (domyslne wartosci licznika=0 a mianownika domyslna 1)  
        Gettery i settery do wartosci licznika i mianownika  
