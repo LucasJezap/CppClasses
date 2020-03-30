@@ -1,5 +1,5 @@
 # Laboratories 4
-Sprawdzają je testy automatyczne:
+Sprawdzają je testy automatyczne:  
 [8pkt] Zaimplementuj hierarchię klas zadaną na zajęciach.  
     zadane atrybuty i metody,  
     odpowiednie konstruktory (pusty konstruktor domyślny nie powinien być dostępny) inicjujące atrybuty (bez wartości domyślnych) z użyciem listy inicjalizującej,  
