@@ -7,10 +7,9 @@
 namespace Shapes
 {
 
-Circle::Circle(int xCenter, int yCenter, int radius) {
-    this->xCenter = xCenter;
-    this->yCenter = yCenter;
-    this->radius = radius;
+Circle::Circle(int xCenter, int yCenter, int radius):
+xCenter(xCenter),yCenter(yCenter),radius(radius)
+{
 }
 
 bool Circle::isIn(int x, int y) const {

@@ -6,11 +6,9 @@
 namespace Shapes
 {
 
-Rectangle::Rectangle(int xFrom, int yFrom, int xTo, int yTo) {
-    this->xFrom = xFrom;
-    this->yFrom = yFrom;
-    this->xTo = xTo;
-    this->yTo = yTo;
+Rectangle::Rectangle(int xFrom, int yFrom, int xTo, int yTo):
+xFrom(xFrom), yFrom(yFrom), xTo(xTo), yTo(yTo)
+{
 }
 
 bool Rectangle::isIn(int x, int y) const {

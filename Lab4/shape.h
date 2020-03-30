@@ -58,7 +58,7 @@ class Shape
 {
   public:
     virtual ~Shape() {};
-
+    
     virtual bool isIn(int x, int y) const = 0;
     
 };
