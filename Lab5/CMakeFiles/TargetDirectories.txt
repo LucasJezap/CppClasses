@@ -1,0 +1,3 @@
+/home/yyy/Desktop/CppClasses/Lab5/MyList4Students/CMakeFiles/rebuild_cache.dir
+/home/yyy/Desktop/CppClasses/Lab5/MyList4Students/CMakeFiles/MyList.dir
+/home/yyy/Desktop/CppClasses/Lab5/MyList4Students/CMakeFiles/edit_cache.dir
